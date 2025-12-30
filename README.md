@@ -24,3 +24,13 @@ Mock Character Frequency Distribution for the English Language
 
 The initial layout will be based off a distribution of characters and then update slightly based on personal key tracking
 
+# Initial Rounds
+Width-Only Scaling: ![alt text](width.png)
+Height-Only Scaling: ![alt text](height.png)
+Width & Height: ![alt text](widthAndHeight.png)
+
+## Round 4 and Round 5 are in progress. Working on filling in the vacated space by biggest neighbors.
+
+## Rounds 6 will be about updating the weights based on user typing instead of a hardcoded frequency table
+
+## Round 7 will be about shifting things around based on where keys are clicked (i.e. if I typically click the bottom right corner of the 's' key then it will grow in that direction)
